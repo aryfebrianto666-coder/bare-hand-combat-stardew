@@ -1,0 +1,9 @@
+{
+  "Name": "Bare-Hand Combat (Android)",
+  "Author": "ChatGPT",
+  "Version": "0.3.0-dev",
+  "Description": "Development build of a touch-button bare-hand attack (20 damage); experimental and unverified.",
+  "UniqueID": "ChatGPT.BareHandCombatAndroid",
+  "EntryDll": "BareHandCombatAndroid.dll",
+  "MinimumApiVersion": "4.0.0"
+}
